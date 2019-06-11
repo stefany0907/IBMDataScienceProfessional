@@ -7,6 +7,8 @@ https://cloud.ibm.com/services/dashdb-for-transactions/e269ef7a-6f5c-461b-85e7-3
 # Cognitive Lab online resource
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DA0101EN/review-introduction.ipynb
 
-DA0101EN - 6. DataAnalysis
-DB0201EN - 5. DatabasesandSQL
-DV0101EN - 7. DataVisualization
+DA0101EN - 6. DataAnalysis  
+DB0201EN - 5. DatabasesandSQL  
+DV0101EN - 7. DataVisualization  
+
+
